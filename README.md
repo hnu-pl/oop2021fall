@@ -1,6 +1,10 @@
 # oop2021fall
 Object-Oriented Programming course @ HNU CE (2021 fall)
 
+## Textbooks
+- [Do it! 자바 프로그래밍 입문](http://www.easyspub.co.kr/20_Menu/BookView/267/PUB#tab04)
+- [Do it! 코틀린 프로그래밍](http://www.easyspub.co.kr/20_Menu/BookView/312/PUB#tab04)
+
 ## Programming Environments for this course
 
 - [Java](https://java.com/)
