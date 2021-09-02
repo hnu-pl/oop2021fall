@@ -8,12 +8,12 @@ Object-Oriented Programming course @ HNU CE (2021 fall)
 ## Programming Environments for this course
 
 - [Java](https://java.com/)
-  - Jupyter kernel reop - https://github.com/SpencerPark/IJava
+  - Jupyter kernel repo - https://github.com/SpencerPark/IJava
   - launch binder lab - https://mybinder.org/v2/gh/SpencerPark/ijava-binder/master?urlpath=lab
   - Docker image - https://github.com/jbindinga/java-notebook
 
 - [Kotlin](https://kotlinlang.org/)
-  - Jupyter kernel reop - https://github.com/Kotlin/kotlin-jupyter
+  - Jupyter kernel repo - https://github.com/Kotlin/kotlin-jupyter
   - launch binder lab - https://mybinder.org/v2/gh/knonm/kotlin-notebook/main?urlpath=lab
   - Docker image - https://github.com/knonm/kotlin-notebook
 
